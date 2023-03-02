@@ -1,7 +1,7 @@
 # MIDI Controller
 
 ## W-101
-![W-101](../utils/imgs/w-101_iso_right_2.png)
+![W-101](./w-101_iso.png)
 
 ## DIY
 How to build your own W-101:
